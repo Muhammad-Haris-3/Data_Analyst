@@ -42,3 +42,51 @@
       - _"All of this work from asking the right questions to collecting your data, to analyzing and sharing doesn't mean much of anything, if we aren't taking action on what we've just learned."_
 1. **Act**
    1. Implement what you are concluded as a data analyst
+
+# Last Module 4
+
+## Issue
+
+_A topic or subject to investigate_
+
+## Question
+
+_Disigned to discover information_
+
+## Problem
+
+_An obstacle or complication that needs to be worked out_
+
+## Business task
+
+_The question or problem data analysis answers for a business_
+
+## Data-driven decision-making
+
+_Using facts to guide business strategy_
+
+> **_"I think one of the most important things to remember about data analytics is that data is data."_**
+
+> **_"I found that data acts like a living and breathing thing."_**
+
+## Fairness
+
+**_Ensuring that your analysis doesnlt create or reinforce bias_**
+
+## Data Ethics
+
+**_"How do we actually improve the lives of people by using data?"_**
+
+## Common factors to find jobs
+
+**Industry**  
+**Tools**  
+**Location**  
+**Travel**  
+**Culture**
+
+**Fianance** Finanace Analyst  
+**Telecom** Business Analyst  
+**Tech** Data Analyst
+
+# Data analysts in different industries Lecture so good module 4 lecture
